@@ -1,3 +1,3 @@
-<h2>J3x-Cloud</h2>
+<h1>J3x-Cloud</h1>
 
 Coming soon!
